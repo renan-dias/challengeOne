@@ -10,7 +10,7 @@ Seguinte, desenvolvi o desafio nas 3 línguagens sugeridas e portanto para execu
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/renan-dias/challengeOne
 ```
 
 Entre no diretório do projeto
